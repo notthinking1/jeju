@@ -10,7 +10,7 @@ small { font-size: 1em; }
 /* 웹폰트 - notosans kr */
 body { font-family: 'Noto Sans KR', sans-serif; }
 /*  헤더 */
-#header {height: 600px; background: url(../images/bg2.jpg) no-repeat center bottom / cover; text-align: center; color: #fff;}
+#header {height: 600px; background: url(../images/bg2.jpg) no-repeat center center / cover; text-align: center; color: #fff;}
 #header hgroup { padding-top: 200px;}
 #header hgroup h1 { font-size: 100px;}
 #header hgroup h2 { font-size: 45px; font-weight: normal;}
